@@ -1,4 +1,7 @@
 streamlit-option-menu
 mysql.connector
 easyocr
-matplotlib.pyplot
+matplotlib
+cv2
+re
+pandas 
