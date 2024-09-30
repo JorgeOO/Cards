@@ -2,6 +2,6 @@ streamlit-option-menu
 mysql.connector
 easyocr
 matplotlib
-cv2
+opencv-python-headless
 re
 pandas 
