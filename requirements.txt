@@ -3,5 +3,4 @@ mysql.connector
 easyocr
 matplotlib
 opencv-python-headless
-re
 pandas 
