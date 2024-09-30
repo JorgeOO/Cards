@@ -31,13 +31,13 @@ database = "your database name will come here"
 username = "your username will come here"
 pwd = "your password will come here"
 
-db1 = sql.connect(host=hostname,
-                  user=username,
-                  password=pwd,
-                  database=database
-                  )
+#db1 = sql.connect(host=hostname,
+#                  user=username,
+#                  password=pwd,
+#                  database=database
+#                  )
 # If buffered is True , the cursor fetches all rows from the server after an operation is executed.
-cursor1 = db1.cursor(buffered=True)
+#cursor1 = db1.cursor(buffered=True)
 
 # ----------------------------------------Initializing easyocr reader Python package------------------------------------
 reader = easyocr.Reader(['en'])
